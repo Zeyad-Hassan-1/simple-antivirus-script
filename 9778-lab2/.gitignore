@@ -1,0 +1,15 @@
+directory-info.last
+directory-info.new
+whitelist.txt
+dir/*
+malicious_dir/*
+!dir/.gitkeep
+!malicious_dir/.gitkeep
+
+
+
+
+
+
+
+
